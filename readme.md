@@ -8,7 +8,7 @@ In order to program using C#, you need an installation of the .NET Core Framewor
 
 ## Lectures
 1. Variables
-    1. [Hello World](/lectures/1-variables/1-hello-world/readme.md)
+    1. [Hello World](/lectures/1-variables/1-hello-world/)
 
 ## Projects
-1. [Octave Synthesizer](/projects/octaves/readme.md)
+1. [Octave Synthesizer](/projects/octaves/)
