@@ -1,6 +1,6 @@
 # Hello World!
 
-In this lecture, you will learn how to create the simplest C# console application. First, we will cover the actual source code required to program the application. Second, we will cover how to create such a project and run it using the .NET Core Framework. References to any C# code used are listed at the bottom of this document.
+In this lecture, we will learn how to create the simplest C# console application. First, we will cover the actual source code required to program the application. Second, we will cover how to create such a project and run it using the .NET Core Framework. References to any C# code used are listed at the bottom of this document.
 
 ## Setup
 

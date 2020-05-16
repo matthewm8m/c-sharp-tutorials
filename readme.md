@@ -9,6 +9,7 @@ In order to program using C#, you need an installation of the .NET Core Framewor
 ## Lectures
 1. Variables
     1. [Hello World](/lectures/1-variables/1-hello-world/)
+    2. [Comments](/lectures/1-variables/2-comments/)
 
 ## Projects
 1. [Octave Synthesizer](/projects/octaves/)
