@@ -13,6 +13,9 @@ class Program
 
         // Create a string variable to represent the name of the user.
         string userName = "Bob";
+
+        // Create an integer variable to represent the number of times we greet
+        // the user.
         int helloCount;
 
         // Welcome the user.
@@ -25,6 +28,7 @@ class Program
         Console.WriteLine(userName);
         helloCount = 2;
 
+        // Describe how many greetings we've given.
         Console.Write("I've said hello to you ");
         Console.Write(helloCount);
         Console.WriteLine(" times!");
