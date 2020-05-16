@@ -26,9 +26,9 @@ Integral types define numerical values for the counting numbers. That is, integr
 ### Floating-Point
 Floating-point types define numerical values for computation or approximations of real numbers. That is, floating-point types can store values such as 1.0, 1.5, -3.14, or 0.0001. These types of values are used best for calculations and scientific values. We will discuss all three types of floating-point types.
 
-- `float` - a 32-bit floating-point number. Can store values as small as $\pm 1.5 \times 10^{-45}$ and as large as $\pm 3.4 \times 10^{38}$. Uses 23 bits of precision. This is the least precise floating-point value with a decent range. It is typically acceptable to use this type for values used in games or visualizations.
-- `double` - a 64-bit floating-point number. Can store values as small as $\pm 5.0 \times 10^{-324}$ and as large as $\pm 1.7 \times 10^{308}$. Uses 52 bits of precision. This is a moderately precise floating-point value with an extreme range. This type is most commonly used for scientific or data-oriented applications.
-- `decimal` - a 128-bit floating-point number. Can store values as small as $\pm 1.0 \times 10^{-28}$ and as large as $\pm 7.9 \times 10^{28}$. Uses 96 bits of precision. This is a high precision floating-point value with a small range. Internally, numbers of this form are stored as integers with some decimal exponent. This type is most commonly used for accuracy-sensitive data such as for monetary purposes. However, the high precision that this type allows also requires more memory and computation time so it should be used sparingly.
+- `float` - a 32-bit floating-point number. Can store values as small as (positive or negative) 1.5E-45 and as large as (positive or negative) 3.4E+38. Uses 23 bits of precision. This is the least precise floating-point value with a decent range. It is typically acceptable to use this type for values used in games or visualizations.
+- `double` - a 64-bit floating-point number. Can store values as small as (positive or negative) 5.0E-324 and as large as (positive or negative) 1.7E+308. Uses 52 bits of precision. This is a moderately precise floating-point value with an extreme range. This type is most commonly used for scientific or data-oriented applications.
+- `decimal` - a 128-bit floating-point number. Can store values as small as (positive or negative) 1.0E-28 and as large as (positive or negative) 7.9E+28. Uses 96 bits of precision. This is a high precision floating-point value with a small range. Internally, numbers of this form are stored as integers with some decimal exponent. This type is most commonly used for accuracy-sensitive data such as for monetary purposes. However, the high precision that this type allows also requires more memory and computation time so it should be used sparingly.
 ### Boolean
 A boolean type can represent one of the values `true` or `false`. This type is useful for storing whether a condition is met or not or as a flag. We will discuss boolean values more in the lectures on control statements.
 
@@ -40,7 +40,7 @@ A character type can represent any letter or symbol from any language. These typ
 ### String
 A string is a finite sequence of characters. Typically, strings are used to represent text or documents. They are likely the most commonly used data type especially for applications that have lots of interaction with the user.
 
-- `string` - a sequence of characters. The maximum size of a string is 1,073,741,824 or $2^{30}$ characters. Strings have so many uses that we will cover them individually in their own section of lectures.
+- `string` - a sequence of characters. The maximum size of a string is 1,073,741,824 or 2^30 characters. Strings have so many uses that we will cover them individually in their own section of lectures.
 ## Variables
 
 A variable is a named value that can be modified and referred to in multiple locations in a program. A variable is stored in memory and any reference to a variable actually refers to the value at the corresponding location in memory.
@@ -117,14 +117,14 @@ Perform the following modifications to the provided code. Then, execute the code
 
 ### References
 - [Types](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables)
-  - [`Int32` (`int`)](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
-  - [`Int64` (`long`)](https://docs.microsoft.com/en-us/dotnet/api/system.int64)
-  - [`Single` (`float`)](https://docs.microsoft.com/en-us/dotnet/api/system.single)
-  - [`Double` (`double`)](https://docs.microsoft.com/en-us/dotnet/api/system.double)
-  - [`Decimal` (`decimal`)](https://docs.microsoft.com/en-us/dotnet/api/system.decimal)
-  - [`Boolean` (`bool`)](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
-  - [`Char` (`char`)](https://docs.microsoft.com/en-us/dotnet/api/system.char)
-  - [`String` (`string`)](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+  - [`Int32 (int)`](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+  - [`Int64 (long)`](https://docs.microsoft.com/en-us/dotnet/api/system.int64)
+  - [`Single (float)`](https://docs.microsoft.com/en-us/dotnet/api/system.single)
+  - [`Double (double)`](https://docs.microsoft.com/en-us/dotnet/api/system.double)
+  - [`Decimal (decimal)`](https://docs.microsoft.com/en-us/dotnet/api/system.decimal)
+  - [`Boolean (bool)`](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+  - [`Char (char)`](https://docs.microsoft.com/en-us/dotnet/api/system.char)
+  - [`String (string)`](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 - [`DateTime`](https://docs.microsoft.com/en-us/dotnet/api/system.datetime)
   - [`DateTime.Now`](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.now)
   - [`DateTime.Hour`](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.hour)
