@@ -13,6 +13,7 @@ In order to program using C#, you need an installation of the .NET Core Framewor
     1. [Hello World](/lectures/1-variables/1-hello-world/)
     2. [Comments](/lectures/1-variables/2-comments/)
     3. [Variables](/lectures/1-variables/3-variables/)
+    4. [`var` Keyword](/lectures/1-variables/4-var-keyword/)
 
 ## Projects
 1. [Octave Synthesizer](/projects/octaves/)
