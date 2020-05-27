@@ -86,7 +86,9 @@ Perform the following modifications to the provided code. Then, execute the code
     *(Avogadro Constant) = 6.022 x 10^23 1/mol*
 
 ### Links
-[Home](../../../readme.md)
+[Previous](../5-operations/) |
+[Home](../../../readme.md) |
+[Next](../7-math/)
 
 ### References
 - [Numeric Literals](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)
