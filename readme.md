@@ -14,6 +14,12 @@ In order to program using C#, you need an installation of the .NET Core Framewor
     2. [Comments](/lectures/1-variables/2-comments/)
     3. [Variables](/lectures/1-variables/3-variables/)
     4. [`var` Keyword](/lectures/1-variables/4-var-keyword/)
+    5. [Operations](/lectures/1-variables/5-operations/)
+    6. [Constants](/lectures/1-variables/6-constants/)
+    7. [Math](/lectures/1-variables/7-math/)
+    8. [Input](/lectures/1-variables/8-input/)
+    9. [Conversion](/lectures/1-variables/9-conversions/)
+    10. [Output](/lectures/1-variables/10-output/)
 
 ## Projects
 1. [Octave Synthesizer](/projects/octaves/)

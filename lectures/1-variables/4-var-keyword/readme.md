@@ -152,7 +152,9 @@ Perform the following modifications to the provided code. Then, execute the code
     What happens? We will cover type conversion shortly.
 
 ### Links
-[Home](../../../readme.md)
+[Previous](../3-variables/) |
+[Home](../../../readme.md) |
+[Next](../5-operations/)
 
 ### References
 - [`var`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/var)

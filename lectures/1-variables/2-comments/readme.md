@@ -79,7 +79,9 @@ Perform the following modifications to the provided code. Then, execute the code
     ```
 
 ### Links
-[Home](../../../readme.md)
+[Previous](../2-comments/) |
+[Home](../../../readme.md) |
+[Next](../4-var-keyword/)
 
 ### References
 - [`Console.ReadKey`](https://docs.microsoft.com/en-us/dotnet/api/system.console.readkey)

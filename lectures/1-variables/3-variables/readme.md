@@ -113,7 +113,9 @@ Perform the following modifications to the provided code. Then, execute the code
     ```
 
 ### Links
-[Home](../../../readme.md)
+[Previous](../1-hello-world/) |
+[Home](../../../readme.md) |
+[Next](../3-variables/)
 
 ### References
 - [Types](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables)
