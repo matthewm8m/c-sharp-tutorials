@@ -1,4 +1,4 @@
-# Operations
+# Constants
 
 In this lecture, we will learn about specifying names for unchanging values in C#. Additionally, we will learn how to represent numbers using scientific notation.
 
