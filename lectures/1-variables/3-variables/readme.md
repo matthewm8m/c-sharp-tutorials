@@ -55,6 +55,8 @@ That is,
 2. Then, we give the variable a *descriptive* `name`. This name can be almost anything with a few exceptions that we will discuss later. Ultimately, it should describe what the variable represents.
 3. Finally, we set the variable equal to some `value` of our choice. This can be a predefined variable or even the value of another variable.
 
+As a convention, we name our variables using **camel case**, a lowercase word followed by uppercase words concatenated together. For instance, one possible name of a variable that follows this convention is `nameOfAVariable`. Throughout all of these lectures, we will follow this convention unless otherwise specified.
+
 Some examples of creating some variables are given in the following code snippet.
 
 ```csharp
