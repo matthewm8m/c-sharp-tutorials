@@ -348,7 +348,7 @@ A blank program file is provided as `Program.cs`. Implement the following exerci
     to wait a certain number of **milliseconds** where `millisecondsToWait` is an `int` based on the user input. Then, use `Console.Write` and `Thread.Sleep` statements with escape sequences to make an alarm sound 3 times with a delay of half a second between each sound. If the user input was invalid display an error message **immediately** and do not make an alarm sound.
 
     *Hint 1: The conditional operator `:?` is your friend.*
-    
+
     *Hint 2: Sleeping for zero milliseconds has no impact on the program.* 
 2. Before prompting the user for a wait time, add a welcome for the user and display the time, *in long time format*, in a single `string` using composite formatting.
 3. Before welcoming the user, prompt the user for their name and store it. Then, modify the welcome message to include the username using string interpolation. You should end up with a welcome message displayed by a single `Console.Write` statement that uses **both** composite formatting and string interpolation. The program should exit on an empty line.
@@ -374,3 +374,4 @@ A blank program file is provided as `Program.cs`. Implement the following exerci
   - [`Console.WriteLine`](https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline)
 - [`DateTime`](https://docs.microsoft.com/en-us/dotnet/api/system.datetime)
   - [`DateTime.Now`](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.now)
+- [`Thread.Sleep`](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.sleep)
