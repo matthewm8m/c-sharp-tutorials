@@ -1,8 +1,6 @@
 # Output
 
-In this lecture,
-
-In this lecture, we will learn how to convert between different compatible types in C#. We will discuss the difference between implicit and explicit conversion and methods of performing both. Finally, we discuss the difference between type conversion and parsing and show how to convert user input into numerical values.
+In this lecture, we will discuss various methods of creating advanced `string` values and using formatting in our outputs. We discuss the escape sequence syntax used to represent formatting or syntactic characters. We discuss the fundamentals of C#'s composite formatting and generalize the syntax to `string` interpolation. We will look through numerous examples that exhibit how these features are used in applications.
 
 ## Setup
 
