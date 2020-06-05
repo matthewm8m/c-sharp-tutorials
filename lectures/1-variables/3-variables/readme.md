@@ -119,6 +119,9 @@ Perform the following modifications to the provided code. Then, execute the code
 [Home](../../../readme.md) |
 [Next](../3-variables/)
 
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
+
 ### References
 - [Types](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables)
   - [`Int32 (int)`](https://docs.microsoft.com/en-us/dotnet/api/system.int32)

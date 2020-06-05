@@ -202,6 +202,9 @@ A blank program file is provided as `Program.cs`. Write each of the following ex
 [Home](../../../readme.md) |
 [Next](../8-input/)
 
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
+
 ### References
 - [`Math`](https://docs.microsoft.com/en-us/dotnet/api/system.math)
   - [`Math.E`](https://docs.microsoft.com/en-us/dotnet/api/system.math.e)

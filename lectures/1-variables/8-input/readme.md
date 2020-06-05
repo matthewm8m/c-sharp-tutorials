@@ -105,6 +105,9 @@ Modify the provided code to implement the following exercises. Then, execute the
 [Home](../../../readme.md) |
 [Next](../9-conversion/)
 
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
+
 ### References
 - [`Console`](https://docs.microsoft.com/en-us/dotnet/api/system.console)
   - [`Console.ReadLine`](https://docs.microsoft.com/en-us/dotnet/api/system.console.readline)

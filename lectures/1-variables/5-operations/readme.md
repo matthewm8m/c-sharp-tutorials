@@ -269,6 +269,9 @@ Perform the following modifications to the provided code. Then, execute the code
 [Home](../../../readme.md) |
 [Next](../6-constants/)
 
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
+
 ### References
 - [Arithmetic Operators](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/arithmetic-operators)
 - [Boolean Operators](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/boolean-logical-operators)

@@ -90,6 +90,9 @@ Perform the following modifications to the provided code. Then, execute the code
 [Home](../../../readme.md) |
 [Next](../7-math/)
 
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
+
 ### References
 - [Numeric Literals](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)
 - [Constants](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/const)

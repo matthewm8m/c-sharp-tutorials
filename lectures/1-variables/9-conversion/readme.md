@@ -14,7 +14,7 @@ This simply changes the directory that we refer to with other commands.
 
 ## Conversion
 
-
+Type conversion is extremely important in programming because we rarely are presented with information in the form that we wish to work with. For example, users will typically enter text information but computers are best designed to calculate with numbers. 
 
 ### Implicit
 
@@ -149,6 +149,9 @@ Replace the provided code with implementations to the following exercises. Then,
 [Previous](../8-input/) |
 [Home](../../../readme.md) |
 [Next](../10-output/)
+
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
 
 ### References
 - [Casting](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions)

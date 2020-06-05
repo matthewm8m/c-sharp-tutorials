@@ -81,6 +81,9 @@ Perform the following modifications to the provided code. Then, execute the code
 [Home](../../../readme.md) |
 [Next](../2-comments/)
 
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
+
 ### References
 - [`Console.WriteLine`](https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline)
 - [`Console.ForegroundColor`](https://docs.microsoft.com/en-us/dotnet/api/system.console.foregroundcolor)

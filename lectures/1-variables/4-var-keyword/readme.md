@@ -156,6 +156,9 @@ Perform the following modifications to the provided code. Then, execute the code
 [Home](../../../readme.md) |
 [Next](../5-operations/)
 
+[Project 1](../../../projects/1-rock-paper-scissors/) |
+[Project 2](../../../projects/2-octave-calculator/)
+
 ### References
 - [`var`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/var)
 - [Integral Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
