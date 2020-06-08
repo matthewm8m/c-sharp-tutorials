@@ -20,6 +20,10 @@ In order to program using C#, you need an installation of the .NET Core Framewor
     8. [Input](/lectures/1-variables/8-input/)
     9. [Conversion](/lectures/1-variables/9-conversions/)
     10. [Output](/lectures/1-variables/10-output/)
+    11. [Random](/lectures/1-variables/11-random/)
+    12. [Redirection](/lectures/1-variables/12-redirection/)
+2. Control
 
 ## Projects
-1. [Octave Synthesizer](/projects/octaves/)
+1. [Rock Paper Scissors](/projects/1-rock-paper-scissors/)
+2. [Octave Calculator](/projects/2-octave-calculator/)

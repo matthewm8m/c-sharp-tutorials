@@ -356,7 +356,7 @@ A blank program file is provided as `Program.cs`. Implement the following exerci
 ### Links
 [Previous](../9-conversion/) |
 [Home](../../../readme.md) |
-[Next (Optional)](../11-redirection/)
+[Next](../11-random/)
 
 [Project 1](../../../projects/1-rock-paper-scissors/) |
 [Project 2](../../../projects/2-octave-calculator/)
