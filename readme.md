@@ -31,4 +31,4 @@ There are a set of general topics that we cover in these tutorials. They are bro
 ## Projects
 1. Variables
    1. [Rock Paper Scissors](/projects/1-rock-paper-scissors/)
-   2. [Octave Calculator](/projects/2-octave-calculator/)
+   2. [Musical Scale Calculator](/projects/2-scale-calculator/)
