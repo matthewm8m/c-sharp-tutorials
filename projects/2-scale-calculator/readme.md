@@ -1,8 +1,6 @@
 # Musical Scale Calculator
 
-In this project,
-
-In this project, you will design a simple application that allows the user to play the game of Rock Paper Scissors with a random acting computer. This project will test your understanding of user input and logical operations.
+In this project, you will create an application that allows a user to calculate the frequencies of each of the tones in a musical major or minor scale. This project will test your understanding of user input, mathematical operations, and problem solving.
 
 ## Prerequisites
 
