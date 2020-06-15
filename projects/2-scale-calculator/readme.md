@@ -152,8 +152,8 @@ $ dotnet test Tests
 The command will tell you which tests passed or failed and how the output produced by your program differs from the expected output. You should only consider the project complete if all tests pass.
 
 ## Links
-[Home](../../../readme.md) |
-[Project 1](../../../projects/1-rock-paper-scissors/)
+[Home](../../readme.md) |
+[Project 1](../../projects/1-rock-paper-scissors/)
 
 ## References
 - [Octaves](https://en.wikipedia.org/wiki/Octave)
