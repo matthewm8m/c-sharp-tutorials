@@ -3,7 +3,7 @@ using System.IO;
 using NUnit.Framework;
 using RockPaperScissors;
 
-namespace tests
+namespace Tests
 {
     public class ProgramTest
     {
@@ -14,7 +14,6 @@ namespace tests
             StringWriter writer = new StringWriter();
 
             // Redirect input and output.
-            TextWriter standardOutput = Console.Out;
             Console.SetIn(reader);
             Console.SetOut(writer);
 
@@ -23,8 +22,6 @@ namespace tests
                 Program.Main(new string[] { });
             else
                 Program.Main(new string[] { seed });
-            Console.SetOut(standardOutput);
-            Console.Write(writer.ToString());
 
             // Get the output lines.
             string[] lines = writer.ToString().Split('\n');

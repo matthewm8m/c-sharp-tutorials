@@ -4,12 +4,13 @@ In this project, you will design a simple application that allows the user to pl
 
 ## Prerequisites
 
-The following lectures contain information that is strictly necessary to know for completing this project.
+The following lectures contain information that is strictly necessary to know for completing this project. It should not be necessary to use any concepts that have not been covered up to this point.
 
 - [1-1: Hello World!](../../lectures/1-variables/1-hello-world/)
 - [1-3: Variables](../../lectures/1-variables/3-variables/)
 - [1-5: Operations](../../lectures/1-variables/5-operations/)
 - [1-8: Input](../../lectures/1-variables/8-input/)
+- [1-11: Random](../../lectures/1-variables/11-random/)
   
 ## Background
 
@@ -162,9 +163,9 @@ $ dotnet test Tests
 
 The command will tell you which tests passed or failed and how the output produced by your program differs from the expected output. You should only consider the project complete if all tests pass.
 
-### Links
+## Links
 [Home](../../../readme.md) |
 [Project 2](../../../projects/2-octave-calculator/)
 
-### References
+## References
 - [Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)
